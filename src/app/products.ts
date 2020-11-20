@@ -20,7 +20,7 @@ export const products = [
 export const r1 = {
   "profile":{
   "firstName": "Jane",
-  "lastName": "Smith",
+  "lastName": "Jones",
   "isAlive": true,
   "age": 27,
   "photo": "https://www.w3schools.com/w3images/avatar_hat.jpg",
@@ -78,14 +78,59 @@ export const r1 = {
 		{
 		"skill": "Media",
 		"level": "50%"
+	},
+  	{
+		"skill": "Angular",
+		"level": "97%"
 	}
-	],
+	],  
+  "workExperience": [
+    {
+	  	"title": "Fullstack Developer / w3schools.com",
+	  	"startDate": "Jun 2017",
+      "endDate": "",
+      "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+    },
 
-  },
-  
-  
-  "workExperience": [],
-  "education": []
+    {
+	  	"title": "Front End Developer / w3schools.com",
+	  	"startDate": "Jan 2015",
+      "endDate": "May 2017",
+      "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+    },
+    {
+	  	"title": "Web Developer / something.com",
+	  	"startDate": "Mar 2012",
+      "endDate": "Dec 2014",
+      "description": "Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+    },
+
+    {
+	  	"title": "Graphic Designer / designsomething.com",
+	  	"startDate": "Jun 2010",
+      "endDate": "Mar 2012",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+    
+    ],
+  "education": [
+    {
+	  	"school": "W3Schools.com",
+	  	"date": "Forever",
+      "degree": "Web Development! All I need to know in one place",
+    },
+    {
+	  	"school": "London Business School",
+	  	"date": "2013 - 2015",
+      "degree": "Master Degree",
+    },
+    {
+	  	"school": "School of Coding",
+	  	"date": "2010 - 2013",
+      "degree": "Bachelor Degree",
+    }
+  ]
+}
 }
 
 
