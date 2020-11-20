@@ -18,4 +18,5 @@ export class GraphicDesignComponent implements OnInit {
     this.portfolioItems = this.cartService.getGraphicDesignPortfolio();
   }
 
+
 }

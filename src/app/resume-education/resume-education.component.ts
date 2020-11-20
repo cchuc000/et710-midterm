@@ -12,4 +12,6 @@ export class ResumeEducationComponent implements OnInit {
   constructor() {}
 
   ngOnInit() {}
+
+  
 }

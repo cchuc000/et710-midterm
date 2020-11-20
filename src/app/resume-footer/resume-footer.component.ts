@@ -12,4 +12,5 @@ export class ResumeFooterComponent implements OnInit {
   ngOnInit() {
   }
 
+
 }

@@ -26,6 +26,10 @@ export class CartService {
     return this.http.get('/assets/graphic.json');
   }
 
+  getIllustrationPortfolio() {
+    return this.http.get('/assets/illustration.json');
+  }
+
 
   constructor(
     private http: HttpClient

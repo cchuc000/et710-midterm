@@ -109,7 +109,7 @@ export const r1 = {
 	  	"title": "Graphic Designer / designsomething.com",
 	  	"startDate": "Jun 2010",
       "endDate": "Mar 2012",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. test"
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     }
     
     ],

@@ -14,4 +14,5 @@ export class ResumeProfileComponent implements OnInit {
   ngOnInit() {
   }
 
+
 }
