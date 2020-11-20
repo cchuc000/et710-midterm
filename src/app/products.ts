@@ -109,7 +109,7 @@ export const r1 = {
 	  	"title": "Graphic Designer / designsomething.com",
 	  	"startDate": "Jun 2010",
       "endDate": "Mar 2012",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. test"
     }
     
     ],
@@ -117,7 +117,7 @@ export const r1 = {
     {
 	  	"school": "W3Schools.com",
 	  	"date": "Forever",
-      "degree": "Web Development! All I need to know in one place",
+      "degree": "Web Development! All I need to know in one places",
     },
     {
 	  	"school": "London Business School",
